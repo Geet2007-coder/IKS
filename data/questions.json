@@ -1,0 +1,2893 @@
+{
+ "topics": [
+  {
+   "id": "bakhshali",
+   "name": "Bakhshali Manuscript",
+   "desc": "Discovery, script, carbon dating, zero"
+  },
+  {
+   "id": "pingala",
+   "name": "Pingala, Binary & Combinatorics",
+   "desc": "Chandaḥśāstra, Laghu–Guru, Māruprāstarā"
+  },
+  {
+   "id": "katapayadi",
+   "name": "Katapayadi, Fibonacci & Pāṇini",
+   "desc": "Encoding systems, Virāṅka, Aṣṭādhyāyī, BNF"
+  },
+  {
+   "id": "kerala",
+   "name": "Kerala School of Mathematics",
+   "desc": "Mādhava, infinite series, Yuktibhāṣā, timeline"
+  },
+  {
+   "id": "brahmagupta",
+   "name": "Brahmagupta",
+   "desc": "Rules of zero, Brahmagupta's formula, Pell's equation"
+  },
+  {
+   "id": "sanskritai",
+   "name": "Sanskrit & AI (Briggs Report)",
+   "desc": "1986 Bangalore conference, AI Magazine 1987"
+  },
+  {
+   "id": "agriculture",
+   "name": "Ancient Indian Agriculture",
+   "desc": "Manuring, pesticides, mulching, sowing, transplantation"
+  },
+  {
+   "id": "cattle",
+   "name": "Indian Cattle Breeds",
+   "desc": "Indigenous vs exotic breeds, milch and dual breeds"
+  },
+  {
+   "id": "revision",
+   "name": "Mixed Revision",
+   "desc": "Cross-topic comparisons and traps"
+  }
+ ],
+ "questions": [
+  {
+   "id": 1,
+   "topic": "bakhshali",
+   "type": "Fact",
+   "q": "In which year was the Bakhshali Manuscript discovered?",
+   "options": [
+    "1857 AD",
+    "1917 AD",
+    "1902 AD",
+    "1881 AD"
+   ],
+   "answer": 3,
+   "explanation": "Discovered in 1881. (1902 is the year it was acquired by the Bodleian Library, Oxford.)"
+  },
+  {
+   "id": 2,
+   "topic": "bakhshali",
+   "type": "Fact",
+   "q": "The Bakhshali Manuscript was found in a village near which city?",
+   "options": [
+    "Peshawar",
+    "Taxila",
+    "Ujjain",
+    "Gwalior"
+   ],
+   "answer": 0,
+   "explanation": "Bakhshali village is near Peshawar, now in Khyber Pakhtunkhwa, Pakistan."
+  },
+  {
+   "id": 3,
+   "topic": "bakhshali",
+   "type": "Fact",
+   "q": "Who discovered the Bakhshali Manuscript?",
+   "options": [
+    "A local farmer digging in a field",
+    "A British archaeologist on an excavation",
+    "A Buddhist monk in a monastery",
+    "Oxford radiocarbon researchers"
+   ],
+   "answer": 0,
+   "explanation": "It was unearthed by a local farmer while digging a field."
+  },
+  {
+   "id": 4,
+   "topic": "bakhshali",
+   "type": "Fact",
+   "q": "On what material is the Bakhshali Manuscript written?",
+   "options": [
+    "Cotton cloth",
+    "Copper plate",
+    "Birch bark (Bhurjapatra)",
+    "Palm leaf (Talapatra)"
+   ],
+   "answer": 2,
+   "explanation": "About 70 fragile leaves/fragments of birch bark (Bhurjapatra)."
+  },
+  {
+   "id": 5,
+   "topic": "bakhshali",
+   "type": "Fact",
+   "q": "The Bakhshali Manuscript is currently held at the:",
+   "options": [
+    "National Museum, New Delhi",
+    "Taxila Museum, Pakistan",
+    "British Museum, London",
+    "Bodleian Libraries, University of Oxford"
+   ],
+   "answer": 3,
+   "explanation": "Bodleian Libraries, Oxford, since 1902."
+  },
+  {
+   "id": 6,
+   "topic": "bakhshali",
+   "type": "Fact",
+   "q": "In which script is the Bakhshali Manuscript written?",
+   "options": [
+    "Brahmi script",
+    "Devanagari script",
+    "Sharada script",
+    "Kharosthi script"
+   ],
+   "answer": 2,
+   "explanation": "Trap: it is Sharada (used mainly in Kashmir and NW India), NOT Devanagari or Brahmi."
+  },
+  {
+   "id": 7,
+   "topic": "bakhshali",
+   "type": "Fact",
+   "q": "The language of the Bakhshali Manuscript is:",
+   "options": [
+    "Old Tamil",
+    "Pure Vedic Sanskrit",
+    "Gatha Sanskrit (Buddhist Hybrid Sanskrit)",
+    "Pali"
+   ],
+   "answer": 2,
+   "explanation": "Gatha Sanskrit, a blend of Classical Sanskrit and Prakrit dialects (also called Buddhist Hybrid Sanskrit)."
+  },
+  {
+   "id": 8,
+   "topic": "bakhshali",
+   "type": "Fact",
+   "q": "The Bakhshali Manuscript is best described as:",
+   "options": [
+    "A practical handbook/training manual for merchant traders",
+    "A grammar text of Sanskrit",
+    "A religious Vedic ritual text",
+    "An astronomical almanac for kings"
+   ],
+   "answer": 0,
+   "explanation": "Rules (sutras) in verse, followed by examples, calculations and verified solutions, for merchants."
+  },
+  {
+   "id": 9,
+   "topic": "bakhshali",
+   "type": "Fact",
+   "q": "How is zero represented in the Bakhshali Manuscript?",
+   "options": [
+    "A small hollow circle '0'",
+    "A solid black dot called shunya",
+    "A cross mark",
+    "A blank space"
+   ],
+   "answer": 1,
+   "explanation": "It uses a solid dot (shunya), not the modern '0' symbol."
+  },
+  {
+   "id": 10,
+   "topic": "bakhshali",
+   "type": "Fact",
+   "q": "In the Bakhshali Manuscript the dot symbol for zero was used mainly as:",
+   "options": [
+    "A sign of division",
+    "A number with arithmetic rules like 0 + a = a",
+    "A positional placeholder in place-value numeration",
+    "A mark of negative numbers"
+   ],
+   "answer": 2,
+   "explanation": "It served as a placeholder. The explicit arithmetic rules of zero came later with Brahmagupta."
+  },
+  {
+   "id": 11,
+   "topic": "bakhshali",
+   "type": "Fact",
+   "q": "The 2017 radiocarbon dating of the Bakhshali Manuscript was done by:",
+   "options": [
+    "Bodleian Conservation Lab only",
+    "Oxford Radiocarbon Accelerator Unit",
+    "Indian Institute of Science, Bengaluru",
+    "Smithsonian Institution"
+   ],
+   "answer": 1,
+   "explanation": "Oxford Radiocarbon Accelerator Unit, University of Oxford, 2017."
+  },
+  {
+   "id": 12,
+   "topic": "bakhshali",
+   "type": "Fact",
+   "q": "Radiocarbon dating showed that the Bakhshali fragments come from:",
+   "options": [
+    "The 12th century only",
+    "A single scribe in one period",
+    "Three different time periods",
+    "Two periods only"
+   ],
+   "answer": 2,
+   "explanation": "The fragments span three periods, from 224–383 AD to 885–993 AD."
+  },
+  {
+   "id": 13,
+   "topic": "bakhshali",
+   "type": "Numeric",
+   "q": "The oldest Bakhshali leaves were dated to approximately:",
+   "options": [
+    "224–383 AD (3rd–4th century AD)",
+    "875 AD",
+    "885–993 AD",
+    "499 AD"
+   ],
+   "answer": 0,
+   "explanation": "The oldest leaves date to 224–383 AD."
+  },
+  {
+   "id": 14,
+   "topic": "bakhshali",
+   "type": "Fact",
+   "q": "Before the Oxford study, the oldest dated evidence of zero in India was the inscription at:",
+   "options": [
+    "Nalanda University",
+    "Sanchi Stupa",
+    "Konark Sun Temple",
+    "Chaturbhuj Temple, Gwalior Fort (c. 875 AD)"
+   ],
+   "answer": 3,
+   "explanation": "9th-century (c. 875 AD) stone inscription at Gwalior Fort, Madhya Pradesh."
+  },
+  {
+   "id": 15,
+   "topic": "bakhshali",
+   "type": "Numeric",
+   "q": "The Oxford radiocarbon study pushed back the recorded origin of the zero symbol in India by nearly:",
+   "options": [
+    "1,000 years",
+    "150 years",
+    "50 years",
+    "500 years"
+   ],
+   "answer": 3,
+   "explanation": "From c. 875 AD back to the 3rd–4th century AD, nearly 500 years."
+  },
+  {
+   "id": 16,
+   "topic": "bakhshali",
+   "type": "Fact",
+   "q": "In the Bakhshali Manuscript, negative numbers/subtraction were indicated by:",
+   "options": [
+    "A '+' sign placed AFTER the number",
+    "A '–' sign placed before the number",
+    "A '+' sign placed before the number",
+    "A dot placed above the number"
+   ],
+   "answer": 0,
+   "explanation": "Trap fact: '+' after a number = negative, the opposite of the modern convention."
+  },
+  {
+   "id": 17,
+   "topic": "bakhshali",
+   "type": "Not / Odd one out",
+   "q": "Which of the following is NOT dealt with in the Bakhshali Manuscript?",
+   "options": [
+    "Infinite series for sine and cosine",
+    "Simultaneous linear equations",
+    "Profit and loss",
+    "Square root approximation"
+   ],
+   "answer": 0,
+   "explanation": "Sine/cosine series belong to Madhava and the Kerala School. Bakhshali covers commercial mathematics, equations, progressions, fractions and square roots."
+  },
+  {
+   "id": 18,
+   "topic": "bakhshali",
+   "type": "Fact",
+   "q": "In the Bakhshali square-root formula, for Q = a² + b, 'a²' stands for:",
+   "options": [
+    "The remainder",
+    "The final approximate value",
+    "The square root of Q",
+    "The nearest perfect square"
+   ],
+   "answer": 3,
+   "explanation": "a² is the nearest perfect square and b is the remainder."
+  },
+  {
+   "id": 19,
+   "topic": "bakhshali",
+   "type": "Match",
+   "q": "Which pair is correctly matched?",
+   "options": [
+    "Radiocarbon dating – Bodleian Library, 1902",
+    "Oldest stone inscription of zero – Bakhshali Manuscript",
+    "Oldest stone inscription of zero – Chaturbhuj Temple, Gwalior",
+    "Oldest manuscript use of zero – Chaturbhuj Temple, Gwalior"
+   ],
+   "answer": 2,
+   "explanation": "Gwalior = stone inscription (9th c.). Bakhshali = bark manuscript (3rd–4th c.)."
+  },
+  {
+   "id": 20,
+   "topic": "bakhshali",
+   "type": "Statements",
+   "q": "I. The Bakhshali Manuscript contains the oldest manuscript record of the dot symbol for zero.\nII. The oldest physical STONE inscription showing zero is at the Chaturbhuj Temple, Gwalior.",
+   "options": [
+    "Only statement I is correct",
+    "Only statement II is correct",
+    "Both statements I and II are correct",
+    "Neither statement I nor II is correct"
+   ],
+   "answer": 2,
+   "explanation": "Both are correct: Bakhshali = oldest documented use in a manuscript, Gwalior = oldest stone inscription."
+  },
+  {
+   "id": 21,
+   "topic": "bakhshali",
+   "type": "Assertion-Reason",
+   "q": "Assertion (A): The Bakhshali Manuscript is not credited with the first arithmetic rules for zero.\nReason (R): The first text to define operations like 0 + a = a and a × 0 = 0 was Brahmagupta's Brahmasphutasiddhanta.",
+   "options": [
+    "Both A and R are true, and R is the correct explanation of A",
+    "Both A and R are true, but R is NOT the correct explanation of A",
+    "A is true, but R is false",
+    "A is false, but R is true"
+   ],
+   "answer": 0,
+   "explanation": "Bakhshali's dot was a placeholder; Brahmagupta (628 AD) formalised the rules of zero, so R explains A."
+  },
+  {
+   "id": 22,
+   "topic": "bakhshali",
+   "type": "Not / Odd one out",
+   "q": "The Bakhshali Manuscript includes all of the following EXCEPT:",
+   "options": [
+    "Currency conversions",
+    "Heliocentric planetary model",
+    "Arithmetic and geometric progressions",
+    "Quadratic equations"
+   ],
+   "answer": 1,
+   "explanation": "The heliocentric-like model is credited to Nilakantha Somayaji of the Kerala School."
+  },
+  {
+   "id": 23,
+   "topic": "pingala",
+   "type": "Fact",
+   "q": "Who is regarded as the 'Father of Binary Numbers' in ancient India?",
+   "options": [
+    "Pāṇini",
+    "Aryabhata",
+    "Acharya Pingala",
+    "Virāṅka"
+   ],
+   "answer": 2,
+   "explanation": "Pingala, author of the Chandaḥśāstra."
+  },
+  {
+   "id": 24,
+   "topic": "pingala",
+   "type": "Fact",
+   "q": "Pingala's foundational text on Sanskrit prosody is:",
+   "options": [
+    "Chandaḥśāstra",
+    "Aṣṭādhyāyī",
+    "Aryabhatiya",
+    "Yuktibhāṣā"
+   ],
+   "answer": 0,
+   "explanation": "Chandaḥśāstra, c. 3rd–2nd century BCE."
+  },
+  {
+   "id": 25,
+   "topic": "pingala",
+   "type": "Fact",
+   "q": "'Chandas' in Pingala's work refers to:",
+   "options": [
+    "Poetic meters (prosody)",
+    "Astronomy",
+    "Trade arithmetic",
+    "Grammar"
+   ],
+   "answer": 0,
+   "explanation": "Chandaḥśāstra = the science of Sanskrit meters."
+  },
+  {
+   "id": 26,
+   "topic": "pingala",
+   "type": "Fact",
+   "q": "In Pingala's system, which syllable corresponds to binary 1?",
+   "options": [
+    "Guru (long/heavy)",
+    "Laghu (short/light)",
+    "Prastāra",
+    "Śūnya"
+   ],
+   "answer": 0,
+   "explanation": "Laghu = 0, Guru = 1."
+  },
+  {
+   "id": 27,
+   "topic": "pingala",
+   "type": "Fact",
+   "q": "In Pingala's binary system, Laghu stands for:",
+   "options": [
+    "0 (long syllable)",
+    "0 (short syllable)",
+    "1 (short syllable)",
+    "1 (long syllable)"
+   ],
+   "answer": 1,
+   "explanation": "Laghu = short = 0; Guru = long = 1."
+  },
+  {
+   "id": 28,
+   "topic": "pingala",
+   "type": "Fact",
+   "q": "Prastāra in Pingala's work is:",
+   "options": [
+    "A grammar rule of Pāṇini",
+    "A method to generate all possible combinations of meter patterns",
+    "A method to find a pattern from its index",
+    "A cipher assigning digits to consonants"
+   ],
+   "answer": 1,
+   "explanation": "Prastāra = combinatorial array, equivalent to a binary truth table."
+  },
+  {
+   "id": 29,
+   "topic": "pingala",
+   "type": "Match",
+   "q": "Naṣṭam in Pingala's system is the algorithm to:",
+   "options": [
+    "Generate all patterns of a meter",
+    "Find the index number when the pattern is given",
+    "Compute Fibonacci numbers",
+    "Find the exact pattern when its index number is given"
+   ],
+   "answer": 3,
+   "explanation": "Naṣṭam: index → pattern. Uddiṣṭam: pattern → index."
+  },
+  {
+   "id": 30,
+   "topic": "pingala",
+   "type": "Match",
+   "q": "Uddiṣṭam in Pingala's system is the algorithm to:",
+   "options": [
+    "Generate Pascal's triangle",
+    "Find the index number of a given pattern",
+    "Find the pattern from an index number",
+    "Encode π in verse"
+   ],
+   "answer": 1,
+   "explanation": "Uddiṣṭam: pattern → index (a precursor of search/hashing/indexing)."
+  },
+  {
+   "id": 31,
+   "topic": "pingala",
+   "type": "Fact",
+   "q": "Naṣṭam and Uddiṣṭam are regarded as early precursors of modern:",
+   "options": [
+    "Search and indexing/hashing algorithms",
+    "Compiler design",
+    "Operating systems",
+    "Image processing"
+   ],
+   "answer": 0,
+   "explanation": "They map between patterns and index numbers."
+  },
+  {
+   "id": 32,
+   "topic": "pingala",
+   "type": "Fact",
+   "q": "Māruprāstarā, the Indian equivalent of Pascal's Triangle, was detailed by:",
+   "options": [
+    "Halāyudha",
+    "Brahmagupta",
+    "Jyeṣṭhadeva",
+    "Hemacandra"
+   ],
+   "answer": 0,
+   "explanation": "Halāyudha's commentary on Pingala's work."
+  },
+  {
+   "id": 33,
+   "topic": "pingala",
+   "type": "Fact",
+   "q": "Which explicit Sanskrit word did Pingala use for a missing/zero state in combinatorics?",
+   "options": [
+    "Rina",
+    "Śūnya",
+    "Dhana",
+    "Khacheda"
+   ],
+   "answer": 1,
+   "explanation": "Pingala used the word Śūnya."
+  },
+  {
+   "id": 34,
+   "topic": "pingala",
+   "type": "Fact",
+   "q": "Who reinvented the binary system in the 17th century AD?",
+   "options": [
+    "Gottfried Wilhelm Leibniz",
+    "Isaac Newton",
+    "Blaise Pascal",
+    "John Backus"
+   ],
+   "answer": 0,
+   "explanation": "Leibniz (17th c. AD); Pingala codified it c. 3rd century BCE."
+  },
+  {
+   "id": 35,
+   "topic": "pingala",
+   "type": "Statements",
+   "q": "I. In Pingala's system a Laghu (short) syllable has the value 1.\nII. Prastāra generates all possible meter permutations of a given length.",
+   "options": [
+    "Only statement I is correct",
+    "Only statement II is correct",
+    "Both statements I and II are correct",
+    "Neither statement I nor II is correct"
+   ],
+   "answer": 1,
+   "explanation": "I is false (Laghu = 0). II is true."
+  },
+  {
+   "id": 36,
+   "topic": "pingala",
+   "type": "Not / Odd one out",
+   "q": "Which is NOT one of the three 'factual contributions of Samskrutam towards computation' shown in the slide?",
+   "options": [
+    "Computational linguistics",
+    "Combinatorics",
+    "Binary number system",
+    "Quantum computing"
+   ],
+   "answer": 3,
+   "explanation": "The slide lists binary numbers, combinatorics and computational linguistics."
+  },
+  {
+   "id": 37,
+   "topic": "pingala",
+   "type": "Fact",
+   "q": "The triangular number array (1; 1 1; 1 2 1; 1 3 3 1…) shown on the 'Combinatorics' slide represents:",
+   "options": [
+    "Katapayadi table",
+    "Fibonacci spiral",
+    "Pascal's triangle / Māruprāstarā",
+    "BNF grammar tree"
+   ],
+   "answer": 2,
+   "explanation": "Pascal's triangle, known in India as Māruprāstarā."
+  },
+  {
+   "id": 38,
+   "topic": "pingala",
+   "type": "Assertion-Reason",
+   "q": "Assertion (A): Pingala is regarded as the father of the binary numeral system.\nReason (R): He classified syllables into Laghu and Guru and assigned them the values 0 and 1.",
+   "options": [
+    "Both A and R are true, and R is the correct explanation of A",
+    "Both A and R are true, but R is NOT the correct explanation of A",
+    "A is true, but R is false",
+    "A is false, but R is true"
+   ],
+   "answer": 0,
+   "explanation": "That classification is the earliest documented binary numeral system."
+  },
+  {
+   "id": 39,
+   "topic": "pingala",
+   "type": "Fact",
+   "q": "The Project SHIVOHAM video describes Sanskrit as:",
+   "options": [
+    "A language with ambiguous grammar",
+    "A purely spoken ritual language",
+    "A precise algorithmic metalanguage able to store, compress and process computations",
+    "A trade jargon of merchants"
+   ],
+   "answer": 2,
+   "explanation": "Sanskrit was a structured algorithmic metalanguage."
+  },
+  {
+   "id": 40,
+   "topic": "pingala",
+   "type": "Match",
+   "q": "Which pairing of Indian precursor and later European name is correct?",
+   "options": [
+    "Chandaḥśāstra – Backus-Naur Form",
+    "Māruprāstarā – Pascal's Triangle",
+    "Prastāra – Fibonacci sequence",
+    "Aṣṭādhyāyī – Pascal's Triangle"
+   ],
+   "answer": 1,
+   "explanation": "Māruprāstarā = Pascal's triangle."
+  },
+  {
+   "id": 41,
+   "topic": "katapayadi",
+   "type": "Fact",
+   "q": "In the Katapayadi system, Sanskrit consonants are assigned numerical values from:",
+   "options": [
+    "0 to 9",
+    "0 to 99",
+    "1 to 12",
+    "1 to 5"
+   ],
+   "answer": 0,
+   "explanation": "Consonants map to digits 0–9."
+  },
+  {
+   "id": 42,
+   "topic": "katapayadi",
+   "type": "Fact",
+   "q": "The Katapayadi rule 'Aṅkānāṁ vāmato gatiḥ' means numbers are read:",
+   "options": [
+    "From top to bottom",
+    "From right to left",
+    "In random order",
+    "From left to right"
+   ],
+   "answer": 1,
+   "explanation": "Digits are read in reverse (right to left)."
+  },
+  {
+   "id": 43,
+   "topic": "katapayadi",
+   "type": "Fact",
+   "q": "What was the main purpose of the Katapayadi system?",
+   "options": [
+    "To encrypt trade debts",
+    "To write Vedic hymns faster",
+    "To measure syllable length",
+    "To remember large numbers and constants as meaningful poetic verses"
+   ],
+   "answer": 3,
+   "explanation": "A mnemonic cipher for astronomical/mathematical constants."
+  },
+  {
+   "id": 44,
+   "topic": "katapayadi",
+   "type": "Fact",
+   "q": "The Katapayadi system was used extensively in South India (Kerala) for encoding:",
+   "options": [
+    "Grammar rules",
+    "Land measurements",
+    "Poetic meters",
+    "π and trigonometric (sine) tables"
+   ],
+   "answer": 3,
+   "explanation": "Used by the Kerala School for π and sine tables."
+  },
+  {
+   "id": 45,
+   "topic": "katapayadi",
+   "type": "Numeric",
+   "q": "Aryabhata's phonetic (alphabetic) numeration could represent numbers up to:",
+   "options": [
+    "10⁹ only",
+    "10¹⁰⁰",
+    "10¹⁸",
+    "10⁶"
+   ],
+   "answer": 2,
+   "explanation": "Up to 10¹⁸ in short verse form."
+  },
+  {
+   "id": 46,
+   "topic": "katapayadi",
+   "type": "Fact",
+   "q": "Aryabhata composed the Aryabhatiya in:",
+   "options": [
+    "499 AD",
+    "628 AD",
+    "1202 AD",
+    "875 AD"
+   ],
+   "answer": 0,
+   "explanation": "Aryabhatiya, 499 AD."
+  },
+  {
+   "id": 47,
+   "topic": "katapayadi",
+   "type": "Fact",
+   "q": "Fibonacci numbers were discovered in India while counting:",
+   "options": [
+    "Trade profits",
+    "Temple dimensions",
+    "Poetic meters (prosody)",
+    "Planetary orbits"
+   ],
+   "answer": 2,
+   "explanation": "By Virāṅka, Gopāla and Hemacandra."
+  },
+  {
+   "id": 48,
+   "topic": "katapayadi",
+   "type": "Fact",
+   "q": "Which scholars are credited with the Fibonacci sequence centuries before Fibonacci (1202 AD)?",
+   "options": [
+    "Pingala, Pāṇini and Halāyudha",
+    "Virāṅka, Gopāla and Hemacandra",
+    "Madhava, Parameshvara and Nilakantha",
+    "Brahmagupta, Bhaskara and Aryabhata"
+   ],
+   "answer": 1,
+   "explanation": "Virāṅka (c. 600 AD), Hemacandra (c. 1150 AD)."
+  },
+  {
+   "id": 49,
+   "topic": "katapayadi",
+   "type": "Numeric",
+   "q": "Virāṅka (c. 600 AD) preceded Fibonacci (1202 AD) by roughly:",
+   "options": [
+    "200 years",
+    "600 years",
+    "1,200 years",
+    "60 years"
+   ],
+   "answer": 1,
+   "explanation": "1202 − 600 ≈ 600 years."
+  },
+  {
+   "id": 50,
+   "topic": "katapayadi",
+   "type": "Fact",
+   "q": "The text on prosodic Fibonacci-type sequences linked to Virāṅka/Hemacandra in the notes is:",
+   "options": [
+    "Zij al-Sindhind",
+    "Tantrasangraha",
+    "Vrittajatisamuccaya",
+    "Sphutanirnaya"
+   ],
+   "answer": 2,
+   "explanation": "Vrittajatisamuccaya (c. 600–1150 AD)."
+  },
+  {
+   "id": 51,
+   "topic": "katapayadi",
+   "type": "Fact",
+   "q": "Pāṇini's Aṣṭādhyāyī was written around:",
+   "options": [
+    "9th century AD",
+    "14th century AD",
+    "4th century BCE",
+    "3rd century AD"
+   ],
+   "answer": 2,
+   "explanation": "c. 4th century BCE."
+  },
+  {
+   "id": 52,
+   "topic": "katapayadi",
+   "type": "Fact",
+   "q": "Approximately how many algorithmic rules does the Aṣṭādhyāyī contain?",
+   "options": [
+    "About 40",
+    "About 4,000",
+    "About 400",
+    "About 40,000"
+   ],
+   "answer": 1,
+   "explanation": "Roughly 4,000 rules (sutras)."
+  },
+  {
+   "id": 53,
+   "topic": "katapayadi",
+   "type": "Fact",
+   "q": "The Aṣṭādhyāyī is regarded as the world's first:",
+   "options": [
+    "Calculus textbook",
+    "Formal generative grammar / rule-based algorithm",
+    "Astronomical table",
+    "Binary numeral system"
+   ],
+   "answer": 1,
+   "explanation": "Context-free grammar with auxiliary symbols, transformations and recursion."
+  },
+  {
+   "id": 54,
+   "topic": "katapayadi",
+   "type": "Fact",
+   "q": "Backus-Naur Form (BNF) was created by:",
+   "options": [
+    "Leibniz and Newton",
+    "Pascal and Fibonacci",
+    "Rick Briggs and Pāṇini",
+    "John Backus and Peter Naur"
+   ],
+   "answer": 3,
+   "explanation": "Used to define programming languages such as ALGOL."
+  },
+  {
+   "id": 55,
+   "topic": "katapayadi",
+   "type": "Fact",
+   "q": "BNF is considered functionally equivalent to:",
+   "options": [
+    "Brahmagupta's formula",
+    "Madhava's series",
+    "Pingala's Prastāra",
+    "Pāṇini's grammatical rules (Panini-Backus Form)"
+   ],
+   "answer": 3,
+   "explanation": "Hence the term Panini-Backus Form (PBF)."
+  },
+  {
+   "id": 56,
+   "topic": "katapayadi",
+   "type": "Fact",
+   "q": "Who, in 1985, noted that Sanskrit is ideal for NLP and AI, and in which organisation did he work?",
+   "options": [
+    "Peter Naur, MIT",
+    "John Backus, IBM",
+    "Matteo Ricci, Jesuit Order",
+    "Rick Briggs, NASA"
+   ],
+   "answer": 3,
+   "explanation": "Rick Briggs (NASA researcher), 1985."
+  },
+  {
+   "id": 57,
+   "topic": "katapayadi",
+   "type": "Statements",
+   "q": "I. In Katapayadi, numbers are read from left to right.\nII. Katapayadi was used to encode π and sine tables in Kerala.",
+   "options": [
+    "Only statement I is correct",
+    "Only statement II is correct",
+    "Both statements I and II are correct",
+    "Neither statement I nor II is correct"
+   ],
+   "answer": 1,
+   "explanation": "I is false (right to left). II is true."
+  },
+  {
+   "id": 58,
+   "topic": "katapayadi",
+   "type": "Match",
+   "q": "Which pair is INCORRECTLY matched?",
+   "options": [
+    "Virāṅka – Aṣṭādhyāyī",
+    "Pāṇini – Aṣṭādhyāyī",
+    "Aryabhata – phonetic numeration",
+    "Pingala – Chandaḥśāstra"
+   ],
+   "answer": 0,
+   "explanation": "Virāṅka is linked to Fibonacci-type sequences; the Aṣṭādhyāyī is Pāṇini's."
+  },
+  {
+   "id": 59,
+   "topic": "katapayadi",
+   "type": "Assertion-Reason",
+   "q": "Assertion (A): Sanskrit is considered highly suitable for natural language processing and AI.\nReason (R): Pāṇini's rule-based grammar gives a very precise, near-zero-ambiguity structure.",
+   "options": [
+    "Both A and R are true, and R is the correct explanation of A",
+    "Both A and R are true, but R is NOT the correct explanation of A",
+    "A is true, but R is false",
+    "A is false, but R is true"
+   ],
+   "answer": 0,
+   "explanation": "Per the notes, this unambiguous rule structure is why Sanskrit suits NLP/Knowledge Representation."
+  },
+  {
+   "id": 60,
+   "topic": "katapayadi",
+   "type": "Fact",
+   "q": "Katapayadi is described in the notes as a:",
+   "options": [
+    "Context-free grammar",
+    "Alphanumeric hashing and mnemonic cipher for astronomical data",
+    "Binary numeral system",
+    "Commercial accounting method"
+   ],
+   "answer": 1,
+   "explanation": "Associated with Vararuchi and Madhava."
+  },
+  {
+   "id": 61,
+   "topic": "kerala",
+   "type": "Fact",
+   "q": "Who founded the Kerala School of Astronomy and Mathematics?",
+   "options": [
+    "Nilakantha Somayaji",
+    "Mādhava of Saṅgamagrāma",
+    "Parameshvara",
+    "Jyeṣṭhadeva"
+   ],
+   "answer": 1,
+   "explanation": "Madhava of Sangamagrama (c. 1340–1425 AD)."
+  },
+  {
+   "id": 62,
+   "topic": "kerala",
+   "type": "Fact",
+   "q": "Mādhava's Sangamagrama corresponds to modern:",
+   "options": [
+    "Thiruvananthapuram",
+    "Irinjalakuda, Thrissur district, Kerala",
+    "Kozhikode",
+    "Kochi, Ernakulam"
+   ],
+   "answer": 1,
+   "explanation": "Irinjalakuda in Thrissur district."
+  },
+  {
+   "id": 63,
+   "topic": "kerala",
+   "type": "Fact",
+   "q": "The infinite series π/4 = 1 − 1/3 + 1/5 − 1/7 + … is known in Europe as the:",
+   "options": [
+    "Gregory–Leibniz series (discovered earlier by Mādhava)",
+    "Newton–Raphson series",
+    "Taylor series",
+    "Fourier series"
+   ],
+   "answer": 0,
+   "explanation": "Madhava–Gregory–Leibniz series."
+  },
+  {
+   "id": 64,
+   "topic": "kerala",
+   "type": "Fact",
+   "q": "Mādhava's power-series expansions of sin x and cos x match the modern:",
+   "options": [
+    "Fibonacci series",
+    "Taylor–Maclaurin series",
+    "Binomial theorem only",
+    "Fourier transform"
+   ],
+   "answer": 1,
+   "explanation": "Matches Taylor–Maclaurin series."
+  },
+  {
+   "id": 65,
+   "topic": "kerala",
+   "type": "Numeric",
+   "q": "Using correction terms, Mādhava computed π correct to:",
+   "options": [
+    "20 decimal places",
+    "3 decimal places",
+    "5 decimal places",
+    "11 decimal places"
+   ],
+   "answer": 3,
+   "explanation": "3.14159265359, a world-record precision at the time."
+  },
+  {
+   "id": 66,
+   "topic": "kerala",
+   "type": "Fact",
+   "q": "Major works associated with Mādhava in the notes are:",
+   "options": [
+    "Yuktibhāṣā and Tantrasangraha",
+    "Sphutanirnaya and Drg-ganita",
+    "Brahmasphutasiddhanta and Zij al-Sindhind",
+    "Venvaroha and Sphutacandrapati"
+   ],
+   "answer": 3,
+   "explanation": "Venvaroha / Sphutacandrapati. Don't confuse them with Jyeṣṭhadeva's Yuktibhāṣā."
+  },
+  {
+   "id": 67,
+   "topic": "kerala",
+   "type": "Fact",
+   "q": "Yuktibhāṣā was authored by:",
+   "options": [
+    "Mādhava",
+    "Achyuta Pisharati",
+    "Nilakantha Somayaji",
+    "Jyeṣṭhadeva"
+   ],
+   "answer": 3,
+   "explanation": "Jyeṣṭhadeva (c. 1500–1610 AD)."
+  },
+  {
+   "id": 68,
+   "topic": "kerala",
+   "type": "Fact",
+   "q": "In which language was the Yuktibhāṣā written?",
+   "options": [
+    "Sanskrit",
+    "Malayalam",
+    "Tamil",
+    "Sharada"
+   ],
+   "answer": 1,
+   "explanation": "Trap: Malayalam, NOT Sanskrit."
+  },
+  {
+   "id": 69,
+   "topic": "kerala",
+   "type": "Fact",
+   "q": "Yuktibhāṣā is globally recognised as:",
+   "options": [
+    "The first text on zero arithmetic",
+    "The world's first textbook of calculus, with proofs of Mādhava's series",
+    "A grammar of Malayalam",
+    "A treatise on poetic meters"
+   ],
+   "answer": 1,
+   "explanation": "It gives systematic geometric proofs for Madhava's infinite series."
+  },
+  {
+   "id": 70,
+   "topic": "kerala",
+   "type": "Fact",
+   "q": "Tantrasangraha was written by:",
+   "options": [
+    "Mādhava",
+    "Nilakantha Somayaji",
+    "Achyuta Pisharati",
+    "Parameshvara"
+   ],
+   "answer": 1,
+   "explanation": "Nilakantha Somayaji (c. 1444–1544 AD)."
+  },
+  {
+   "id": 71,
+   "topic": "kerala",
+   "type": "Fact",
+   "q": "Nilakantha's planetary model proposed that:",
+   "options": [
+    "Planets move in perfect circles around the Moon",
+    "The Sun is stationary at the centre of the universe",
+    "Planets revolve around the Sun, which revolves around the Earth",
+    "All planets revolve around a fixed Earth"
+   ],
+   "answer": 2,
+   "explanation": "A quasi-heliocentric model, predating Tycho Brahe."
+  },
+  {
+   "id": 72,
+   "topic": "kerala",
+   "type": "Fact",
+   "q": "Parameshvara created which system of astronomy?",
+   "options": [
+    "Drg-ganita, based on continuous observational corrections",
+    "Katapayadi",
+    "Siddhanta of Ujjain",
+    "Chakravala"
+   ],
+   "answer": 0,
+   "explanation": "Parameshvara (c. 1380–1460 AD), a pupil of Madhava."
+  },
+  {
+   "id": 73,
+   "topic": "kerala",
+   "type": "Fact",
+   "q": "Achyuta Pisharati authored which work on lunar corrections?",
+   "options": [
+    "Yuktibhāṣā",
+    "Tantrasangraha",
+    "Sphutanirnaya",
+    "Vrittajatisamuccaya"
+   ],
+   "answer": 2,
+   "explanation": "Achyuta Pisharati (c. 1550–1621 AD)."
+  },
+  {
+   "id": 74,
+   "topic": "kerala",
+   "type": "Numeric",
+   "q": "The Kerala School developed calculus and infinite series about how long before Newton and Leibniz?",
+   "options": [
+    "1,000 years",
+    "25 years",
+    "250+ years",
+    "About 100 years"
+   ],
+   "answer": 2,
+   "explanation": "Over two centuries earlier: roughly 250+ years."
+  },
+  {
+   "id": 75,
+   "topic": "kerala",
+   "type": "Fact",
+   "q": "Who is associated with the Jesuit transmission hypothesis for Kerala mathematics reaching Europe?",
+   "options": [
+    "C.K. Raju",
+    "S.R. Rao",
+    "Gyula Wojtilla",
+    "Rick Briggs"
+   ],
+   "answer": 0,
+   "explanation": "C.K. Raju suggests transmission via Jesuits (e.g., Matteo Ricci) at Kochi/Calicut."
+  },
+  {
+   "id": 76,
+   "topic": "kerala",
+   "type": "Match",
+   "q": "According to the 'Key Contributions of Kerala's School' slide, Govindaswami is linked to:",
+   "options": [
+    "Newton–Gauss interpolation",
+    "Leibniz series for π",
+    "Taylor series for sine and cosine",
+    "Tycho Brahe's reduction to the ecliptic"
+   ],
+   "answer": 0,
+   "explanation": "Govindaswami (800–850 CE) ↔ Newton & Gauss (~1750)."
+  },
+  {
+   "id": 77,
+   "topic": "kerala",
+   "type": "Match",
+   "q": "On the same slide, Achyuta is linked to:",
+   "options": [
+    "Newton's power series",
+    "L'Huilier's formula",
+    "Tycho Brahe's reduction to the ecliptic",
+    "Newton–Gauss interpolation"
+   ],
+   "answer": 2,
+   "explanation": "Achyuta ↔ Tycho Brahe."
+  },
+  {
+   "id": 78,
+   "topic": "kerala",
+   "type": "Match",
+   "q": "On the same slide, Parameswara is linked to:",
+   "options": [
+    "Taylor series",
+    "L'Huilier's formula for cyclic quadrilaterals",
+    "Leibniz power series for π",
+    "Brahmagupta's theorem"
+   ],
+   "answer": 1,
+   "explanation": "Parameswara ↔ Jean L'Huilier."
+  },
+  {
+   "id": 79,
+   "topic": "kerala",
+   "type": "Match",
+   "q": "Which pair is correctly matched?",
+   "options": [
+    "Neelakanta – Taylor series for sine",
+    "Govindaswami – Leibniz power series for π",
+    "Mādhava – Leibniz series for inverse tangent",
+    "Achyuta – Newton–Gauss interpolation"
+   ],
+   "answer": 2,
+   "explanation": "Madhava ↔ Leibniz (inverse tangent); Neelakanta ↔ Leibniz power series for π."
+  },
+  {
+   "id": 80,
+   "topic": "kerala",
+   "type": "Fact",
+   "q": "The timeline slide shows Europe adopting the Hindu numeral system in:",
+   "options": [
+    "1582 CE",
+    "1498 CE",
+    "1202 CE",
+    "1346 CE"
+   ],
+   "answer": 2,
+   "explanation": "1202 CE. (1498 = Vasco da Gama; 1582 = Gregorian calendar.)"
+  },
+  {
+   "id": 81,
+   "topic": "kerala",
+   "type": "Fact",
+   "q": "The timeline slide places the authoring of 'Tantrasangraha' at:",
+   "options": [
+    "1450–1550 CE",
+    "1350–1420 CE",
+    "1500–1610 CE",
+    "1660–1700 CE"
+   ],
+   "answer": 0,
+   "explanation": "Neelakanta, 1450–1550. (1500–1610 = Yuktibhāṣā.)"
+  },
+  {
+   "id": 82,
+   "topic": "kerala",
+   "type": "Fact",
+   "q": "On the timeline slide, Newton and Leibniz publish calculus independently in:",
+   "options": [
+    "1350–1420 CE",
+    "1660–1700 CE",
+    "1582 CE",
+    "1638 CE"
+   ],
+   "answer": 1,
+   "explanation": "1660–1700 CE."
+  },
+  {
+   "id": 83,
+   "topic": "kerala",
+   "type": "Fact",
+   "q": "The timeline slide marks Vasco da Gama's arrival in India in:",
+   "options": [
+    "1346 CE",
+    "1638 CE",
+    "1202 CE",
+    "1498 CE"
+   ],
+   "answer": 3,
+   "explanation": "1498 CE."
+  },
+  {
+   "id": 84,
+   "topic": "kerala",
+   "type": "Chronology",
+   "q": "Correct chronological order of Kerala scholars, earliest first?",
+   "options": [
+    "Parameshvara → Mādhava → Jyeṣṭhadeva → Nilakantha",
+    "Mādhava → Parameshvara → Nilakantha → Jyeṣṭhadeva",
+    "Jyeṣṭhadeva → Nilakantha → Parameshvara → Mādhava",
+    "Nilakantha → Mādhava → Parameshvara → Jyeṣṭhadeva"
+   ],
+   "answer": 1,
+   "explanation": "Madhava (c. 1340) → Parameshvara (c. 1380) → Nilakantha (c. 1444) → Jyeṣṭhadeva (c. 1500)."
+  },
+  {
+   "id": 85,
+   "topic": "kerala",
+   "type": "Statements",
+   "q": "I. Yuktibhāṣā was written in Sanskrit by Jyeṣṭhadeva.\nII. Tantrasangraha was authored by Nilakantha Somayaji.",
+   "options": [
+    "Only statement I is correct",
+    "Only statement II is correct",
+    "Both statements I and II are correct",
+    "Neither statement I nor II is correct"
+   ],
+   "answer": 1,
+   "explanation": "I is false: Yuktibhāṣā is in Malayalam. II is true."
+  },
+  {
+   "id": 86,
+   "topic": "kerala",
+   "type": "Not / Odd one out",
+   "q": "Which of the following was NOT a scholar of the Kerala School?",
+   "options": [
+    "Nilakantha Somayaji",
+    "Parameshvara",
+    "Achyuta Pisharati",
+    "Brahmagupta"
+   ],
+   "answer": 3,
+   "explanation": "Brahmagupta belonged to Ujjain (7th c. AD)."
+  },
+  {
+   "id": 87,
+   "topic": "kerala",
+   "type": "Assertion-Reason",
+   "q": "Assertion (A): Yuktibhāṣā is called the world's first calculus textbook.\nReason (R): It presents systematic geometric proofs of Mādhava's infinite series.",
+   "options": [
+    "Both A and R are true, and R is the correct explanation of A",
+    "Both A and R are true, but R is NOT the correct explanation of A",
+    "A is true, but R is false",
+    "A is false, but R is true"
+   ],
+   "answer": 0,
+   "explanation": "The proofs (not just results) justify the title."
+  },
+  {
+   "id": 88,
+   "topic": "kerala",
+   "type": "Fact",
+   "q": "Which is TRUE about the Kerala School's research methods in the notes?",
+   "options": [
+    "They used limit processes (infinitesimals) and mean-value principles for astronomical predictions",
+    "They avoided approximations of π",
+    "They relied only on Greek epicycle tables",
+    "They used only geometry, with no infinite processes"
+   ],
+   "answer": 0,
+   "explanation": "Differentiation, integration, limit process and mean value principles."
+  },
+  {
+   "id": 89,
+   "topic": "brahmagupta",
+   "type": "Fact",
+   "q": "Brahmagupta's lifespan according to the notes was:",
+   "options": [
+    "c. 476–550 AD",
+    "c. 598–668 AD",
+    "c. 1340–1425 AD",
+    "c. 1114–1185 AD"
+   ],
+   "answer": 1,
+   "explanation": "598–668 AD."
+  },
+  {
+   "id": 90,
+   "topic": "brahmagupta",
+   "type": "Fact",
+   "q": "Brahmagupta headed the astronomical observatory at:",
+   "options": [
+    "Gwalior",
+    "Sangamagrama",
+    "Kusumapura",
+    "Ujjain"
+   ],
+   "answer": 3,
+   "explanation": "Ujjain, the premier centre of ancient mathematics/astronomy."
+  },
+  {
+   "id": 91,
+   "topic": "brahmagupta",
+   "type": "Fact",
+   "q": "Brahmasphutasiddhanta was composed in:",
+   "options": [
+    "499 AD",
+    "771 AD",
+    "628 AD",
+    "875 AD"
+   ],
+   "answer": 2,
+   "explanation": "628 AD, at age 30, in verse."
+  },
+  {
+   "id": 92,
+   "topic": "brahmagupta",
+   "type": "Numeric",
+   "q": "How many chapters does the Brahmasphutasiddhanta contain?",
+   "options": [
+    "13",
+    "108",
+    "10",
+    "25"
+   ],
+   "answer": 3,
+   "explanation": "25 chapters covering astronomy, algebra, geometry and arithmetic."
+  },
+  {
+   "id": 93,
+   "topic": "brahmagupta",
+   "type": "Fact",
+   "q": "Which text is the first to give explicit arithmetic rules for computing WITH zero?",
+   "options": [
+    "Chandaḥśāstra",
+    "Bakhshali Manuscript",
+    "Aryabhatiya",
+    "Brahmasphutasiddhanta"
+   ],
+   "answer": 3,
+   "explanation": "Brahmasphutasiddhanta (628 AD)."
+  },
+  {
+   "id": 94,
+   "topic": "brahmagupta",
+   "type": "Numeric",
+   "q": "According to Brahmagupta, 0 − a equals:",
+   "options": [
+    "a",
+    "−a",
+    "undefined",
+    "0"
+   ],
+   "answer": 1,
+   "explanation": "a − 0 = a; 0 − a = −a."
+  },
+  {
+   "id": 95,
+   "topic": "brahmagupta",
+   "type": "Numeric",
+   "q": "According to Brahmagupta, a × 0 equals:",
+   "options": [
+    "undefined",
+    "0",
+    "a",
+    "∞"
+   ],
+   "answer": 1,
+   "explanation": "a × 0 = 0 and 0 × 0 = 0."
+  },
+  {
+   "id": 96,
+   "topic": "brahmagupta",
+   "type": "Fact",
+   "q": "Brahmagupta's archaic statement about 0/0 was:",
+   "options": [
+    "0/0 is a complex number",
+    "0/0 = 0",
+    "0/0 = 1",
+    "0/0 = ∞"
+   ],
+   "answer": 1,
+   "explanation": "An archaic interpretation, as per the notes."
+  },
+  {
+   "id": 97,
+   "topic": "brahmagupta",
+   "type": "Fact",
+   "q": "'Khacheda' in Brahmagupta's work refers to:",
+   "options": [
+    "A positional placeholder",
+    "A cyclic quadrilateral",
+    "A negative number",
+    "A quantity divided by zero (fraction with zero denominator)"
+   ],
+   "answer": 3,
+   "explanation": "A positive or negative number divided by zero."
+  },
+  {
+   "id": 98,
+   "topic": "brahmagupta",
+   "type": "Fact",
+   "q": "Brahmagupta called positive numbers:",
+   "options": [
+    "Rina (debt)",
+    "Shunya",
+    "Dhana (fortune/asset)",
+    "Khacheda"
+   ],
+   "answer": 2,
+   "explanation": "Dhana = positive."
+  },
+  {
+   "id": 99,
+   "topic": "brahmagupta",
+   "type": "Fact",
+   "q": "Brahmagupta called negative numbers:",
+   "options": [
+    "Dhana (fortune)",
+    "Shunya",
+    "Varga",
+    "Rina (debt)"
+   ],
+   "answer": 3,
+   "explanation": "Rina = negative."
+  },
+  {
+   "id": 100,
+   "topic": "brahmagupta",
+   "type": "Fact",
+   "q": "Which sign law was first codified by Brahmagupta?",
+   "options": [
+    "Positive × Negative = Positive",
+    "Zero × Negative = Negative",
+    "Negative × Negative = Positive",
+    "Negative + Negative = Positive"
+   ],
+   "answer": 2,
+   "explanation": "Neg × Neg = Pos."
+  },
+  {
+   "id": 101,
+   "topic": "brahmagupta",
+   "type": "Fact",
+   "q": "Brahmagupta's solution of ax² + bx = c is:",
+   "options": [
+    "x = (√(4ac + b²) − b) / 2a",
+    "x = √(c/a)",
+    "x = (√(b² − 4ac) + b) / 2a",
+    "x = −b / 2a"
+   ],
+   "answer": 0,
+   "explanation": "First complete explicit algebraic solution of a quadratic."
+  },
+  {
+   "id": 102,
+   "topic": "brahmagupta",
+   "type": "Fact",
+   "q": "The exact area formula for a cyclic quadrilateral is called:",
+   "options": [
+    "L'Huilier's formula",
+    "Pell's equation",
+    "Heron's formula",
+    "Brahmagupta's formula"
+   ],
+   "answer": 3,
+   "explanation": "Area = √((s−a)(s−b)(s−c)(s−d)) with s = semi-perimeter."
+  },
+  {
+   "id": 103,
+   "topic": "brahmagupta",
+   "type": "Numeric",
+   "q": "A cyclic quadrilateral (rectangle) has sides 3, 4, 3, 4. Its area by Brahmagupta's formula is:",
+   "options": [
+    "12",
+    "144",
+    "14",
+    "7"
+   ],
+   "answer": 0,
+   "explanation": "s = 7. √(4·3·4·3) = √144 = 12."
+  },
+  {
+   "id": 104,
+   "topic": "brahmagupta",
+   "type": "Numeric",
+   "q": "In Brahmagupta's formula, the semi-perimeter s equals:",
+   "options": [
+    "a + b + c + d",
+    "(a + b + c + d)/2",
+    "(a + b)(c + d)/2",
+    "√(abcd)"
+   ],
+   "answer": 1,
+   "explanation": "Half the sum of the four sides."
+  },
+  {
+   "id": 105,
+   "topic": "brahmagupta",
+   "type": "Fact",
+   "q": "Brahmagupta's theorem states that, for a cyclic quadrilateral with perpendicular diagonals:",
+   "options": [
+    "A perpendicular from the intersection point to a side bisects the opposite side",
+    "The diagonals are equal",
+    "All sides are equal",
+    "The area equals half the product of the sides"
+   ],
+   "answer": 0,
+   "explanation": "Requires a cyclic quadrilateral with perpendicular diagonals."
+  },
+  {
+   "id": 106,
+   "topic": "brahmagupta",
+   "type": "Fact",
+   "q": "Brahmagupta's Varga-Prakriti refers to:",
+   "options": [
+    "Pell's equation Nx² + 1 = y²",
+    "Pythagorean triples",
+    "Quadratic equation ax² + bx = c",
+    "Infinite series for π"
+   ],
+   "answer": 0,
+   "explanation": "Solved by the Bhavana (composition) method."
+  },
+  {
+   "id": 107,
+   "topic": "brahmagupta",
+   "type": "Fact",
+   "q": "Pell's equation was later refined into the Chakravala method by:",
+   "options": [
+    "John Pell",
+    "Aryabhata",
+    "Jyeṣṭhadeva",
+    "Bhaskara II"
+   ],
+   "answer": 3,
+   "explanation": "Bhaskara II; Brahmagupta preceded Pell and Lagrange."
+  },
+  {
+   "id": 108,
+   "topic": "brahmagupta",
+   "type": "Fact",
+   "q": "The Brahmasphutasiddhanta reached Baghdad around 771 AD at the court of Caliph:",
+   "options": [
+    "Abd al-Malik",
+    "Al-Mamun",
+    "Harun al-Rashid",
+    "Al-Mansur"
+   ],
+   "answer": 3,
+   "explanation": "Abbasid Caliph Al-Mansur."
+  },
+  {
+   "id": 109,
+   "topic": "brahmagupta",
+   "type": "Fact",
+   "q": "The Arabic translation of Brahmasphutasiddhanta, by Muhammad al-Fazari, was titled:",
+   "options": [
+    "Kitab al-Jam' wa'l-tafriq",
+    "Zij al-Sindhind",
+    "Liber Abaci",
+    "Al-Jabr"
+   ],
+   "answer": 1,
+   "explanation": "Zij al-Sindhind introduced Indian numerals, place-value zero and algebra."
+  },
+  {
+   "id": 110,
+   "topic": "brahmagupta",
+   "type": "Fact",
+   "q": "Al-Khwarizmi's work introducing Indian arithmetic to Europe (via Latin) dealt with:",
+   "options": [
+    "Calculation with Hindu numerals",
+    "Planetary heliocentrism",
+    "Poetic meters",
+    "Cyclic quadrilaterals"
+   ],
+   "answer": 0,
+   "explanation": "Kitab al-Jam' wa'l-tafriq bi-hisab al-Hind."
+  },
+  {
+   "id": 111,
+   "topic": "brahmagupta",
+   "type": "Statements",
+   "q": "I. Brahmagupta first formalised rules for computing with zero and negative numbers.\nII. He was head of the astronomical observatory at Ujjain.",
+   "options": [
+    "Only statement I is correct",
+    "Only statement II is correct",
+    "Both statements I and II are correct",
+    "Neither statement I nor II is correct"
+   ],
+   "answer": 2,
+   "explanation": "Both are correct."
+  },
+  {
+   "id": 112,
+   "topic": "brahmagupta",
+   "type": "Assertion-Reason",
+   "q": "Assertion (A): Brahmagupta's work influenced mathematics in the Islamic world and later Europe.\nReason (R): It was translated in Baghdad as Zij al-Sindhind, which led to Al-Khwarizmi's work on Hindu numerals.",
+   "options": [
+    "Both A and R are true, and R is the correct explanation of A",
+    "Both A and R are true, but R is NOT the correct explanation of A",
+    "A is true, but R is false",
+    "A is false, but R is true"
+   ],
+   "answer": 0,
+   "explanation": "That Baghdad translation chain explains the transmission."
+  },
+  {
+   "id": 113,
+   "topic": "brahmagupta",
+   "type": "Trap",
+   "q": "Brahmagupta's formula for a cyclic quadrilateral works only if:",
+   "options": [
+    "Opposite angles are 60°",
+    "The sides are equal",
+    "The diagonals are equal",
+    "The quadrilateral is cyclic (vertices lie on a circle)"
+   ],
+   "answer": 3,
+   "explanation": "The cyclic condition is required."
+  },
+  {
+   "id": 114,
+   "topic": "brahmagupta",
+   "type": "Not / Odd one out",
+   "q": "Which is NOT a contribution of Brahmagupta?",
+   "options": [
+    "Solving Nx² + 1 = y²",
+    "Infinite series for π and sin x",
+    "Sign laws for negative numbers",
+    "Rules for zero"
+   ],
+   "answer": 1,
+   "explanation": "Infinite series belong to Madhava (Kerala School)."
+  },
+  {
+   "id": 115,
+   "topic": "sanskritai",
+   "type": "Fact",
+   "q": "The conference report 'Knowledge Representation and Inference in Sanskrit' was written by:",
+   "options": [
+    "H. N. Mahabala",
+    "I. Mani",
+    "Paramananda Bharathi Swamiji",
+    "Rick Briggs"
+   ],
+   "answer": 3,
+   "explanation": "Rick Briggs, AI Magazine Vol. 8 No. 2 (1987)."
+  },
+  {
+   "id": 116,
+   "topic": "sanskritai",
+   "type": "Fact",
+   "q": "The report appeared in which publication?",
+   "options": [
+    "Communications of the ACM, 1985",
+    "Nature, 1986",
+    "Journal of Sanskrit Studies, 1990",
+    "AI Magazine, Volume 8, Number 2 (1987)"
+   ],
+   "answer": 3,
+   "explanation": "© AAAI, 1987."
+  },
+  {
+   "id": 117,
+   "topic": "sanskritai",
+   "type": "Fact",
+   "q": "The conference reviewed in the report was held in:",
+   "options": [
+    "Bangalore, India",
+    "Pune, India",
+    "Oxford, UK",
+    "Buffalo, USA"
+   ],
+   "answer": 0,
+   "explanation": "First National Conference on Knowledge Representation and Inference in Sanskrit, Bangalore."
+  },
+  {
+   "id": 118,
+   "topic": "sanskritai",
+   "type": "Numeric",
+   "q": "The conference was held on which dates?",
+   "options": [
+    "1–3 January 1987",
+    "20–22 June 1986",
+    "20–22 December 1985",
+    "20–22 December 1986"
+   ],
+   "answer": 3,
+   "explanation": "20 through 22 December 1986."
+  },
+  {
+   "id": 119,
+   "topic": "sanskritai",
+   "type": "Fact",
+   "q": "The conference was inspired by an article in the Spring 1985 issue of:",
+   "options": [
+    "AI Magazine",
+    "The Hindu",
+    "Scientific American",
+    "IEEE Spectrum"
+   ],
+   "answer": 0,
+   "explanation": "'Knowledge Representation in Sanskrit and Artificial Intelligence'."
+  },
+  {
+   "id": 120,
+   "topic": "sanskritai",
+   "type": "Fact",
+   "q": "The conference was inspired by:",
+   "options": [
+    "Rick Briggs alone",
+    "Pāṇini",
+    "Sri Paramananda Bharathi Swamiji",
+    "John Backus"
+   ],
+   "answer": 2,
+   "explanation": "Organised by Dr. H. N. Mahabala and others."
+  },
+  {
+   "id": 121,
+   "topic": "sanskritai",
+   "type": "Fact",
+   "q": "Who was among the organisers (president of the Computer Society of India)?",
+   "options": [
+    "Rick Briggs",
+    "Peter Naur",
+    "Dr. H. N. Mahabala",
+    "I. Mani"
+   ],
+   "answer": 2,
+   "explanation": "Dr. H. N. Mahabala was president of the Computer Society of India."
+  },
+  {
+   "id": 122,
+   "topic": "sanskritai",
+   "type": "Fact",
+   "q": "Why was language a barrier at the conference?",
+   "options": [
+    "Papers were banned in Sanskrit",
+    "The computer scientists spoke no Hindi",
+    "No Sanskrit text was available",
+    "The pandits spoke no English"
+   ],
+   "answer": 3,
+   "explanation": "Presentations were translated into English and Sanskrit, and the proceedings were issued in both languages."
+  },
+  {
+   "id": 123,
+   "topic": "sanskritai",
+   "type": "Fact",
+   "q": "The first tutorial before the conference was for:",
+   "options": [
+    "Computer scientists, on Sanskrit literature",
+    "Government officials",
+    "The pandits, who were given an AI tutorial",
+    "Students of linguistics"
+   ],
+   "answer": 2,
+   "explanation": "The magazine article was translated into Sanskrit; the second tutorial familiarised computer scientists with Sanskrit knowledge-representation literature."
+  },
+  {
+   "id": 124,
+   "topic": "sanskritai",
+   "type": "Fact",
+   "q": "Papers at the conference fell into how many basic groups?",
+   "options": [
+    "Four",
+    "Two",
+    "Five",
+    "Three"
+   ],
+   "answer": 3,
+   "explanation": "Overview of NLP; purely Sanskrit; Sanskrit methodology for NLP (the most important)."
+  },
+  {
+   "id": 125,
+   "topic": "sanskritai",
+   "type": "Fact",
+   "q": "Which group of papers was described as the MOST important?",
+   "options": [
+    "Those on using the underlying Sanskrit methodology in NLP",
+    "Purely Sanskrit grammar papers",
+    "Overview papers on natural language processing",
+    "Papers on tutorials"
+   ],
+   "answer": 0,
+   "explanation": "The third group."
+  },
+  {
+   "id": 126,
+   "topic": "sanskritai",
+   "type": "Fact",
+   "q": "The SNEPS semantic network system was used for Sanskrit grammatical analysis by:",
+   "options": [
+    "I. Mani (Texas Instruments)",
+    "Mahabala (IIT)",
+    "Srihari, Rappaport and Kumov (SUNY Buffalo)",
+    "Briggs and Backus (NASA)"
+   ],
+   "answer": 2,
+   "explanation": "State University of New York at Buffalo."
+  },
+  {
+   "id": 127,
+   "topic": "sanskritai",
+   "type": "Fact",
+   "q": "I. Mani, who presented an overview-type paper, was from:",
+   "options": [
+    "IIT Bangalore",
+    "Texas Instruments",
+    "Oxford University",
+    "NASA"
+   ],
+   "answer": 1,
+   "explanation": "I. Mani of Texas Instruments."
+  },
+  {
+   "id": 128,
+   "topic": "sanskritai",
+   "type": "Fact",
+   "q": "For Sanskrit scholars, the purpose of studying language was to:",
+   "options": [
+    "Understand the nature of language and thought in itself",
+    "Compare Aristotle with Panini",
+    "Derive a method for natural language understanding",
+    "Build commercial software"
+   ],
+   "answer": 0,
+   "explanation": "The AI purpose was to derive a 'method' for natural language understanding."
+  },
+  {
+   "id": 129,
+   "topic": "sanskritai",
+   "type": "Fact",
+   "q": "The report says the methodology in ancient texts was:",
+   "options": [
+    "Fully explicit and documented",
+    "Only available in English",
+    "Lost entirely",
+    "Implicit, with examples of parsing but little procedural information"
+   ],
+   "answer": 3,
+   "explanation": "Hence reliance on pandits and the oral tradition."
+  },
+  {
+   "id": 130,
+   "topic": "sanskritai",
+   "type": "Fact",
+   "q": "The report contrasts Western psychology/philosophy (Aristotelian logic, scientific method) with the Indo-Aryan tradition, which is also based on:",
+   "options": [
+    "Experimentation only",
+    "Introspection and internal experience",
+    "Machine translation",
+    "Statistics"
+   ],
+   "answer": 1,
+   "explanation": "Both converge in analysing language and extracting semantic meaning."
+  },
+  {
+   "id": 131,
+   "topic": "sanskritai",
+   "type": "Fact",
+   "q": "Which of these attended the conference?",
+   "options": [
+    "No government officials",
+    "Vice-chairman of the UGC and the Secretary of the Department of Electronics",
+    "Only foreign delegates",
+    "Only Sanskrit pandits"
+   ],
+   "answer": 1,
+   "explanation": "Plus professors from Oxford, Sussex and the US."
+  },
+  {
+   "id": 132,
+   "topic": "sanskritai",
+   "type": "Fact",
+   "q": "What was the outcome of the conference?",
+   "options": [
+    "Positive: the right questions were asked, and a working group was created",
+    "Inconclusive; no follow-up planned",
+    "Sanskrit was declared unsuitable for AI",
+    "A software product was released"
+   ],
+   "answer": 0,
+   "explanation": "A working group was formed to pursue goals and possibly hold another conference in 1987 and 1988."
+  },
+  {
+   "id": 133,
+   "topic": "sanskritai",
+   "type": "Statements",
+   "q": "I. The conference was held in Bangalore in December 1986.\nII. All presentations were delivered only in English.",
+   "options": [
+    "Only statement I is correct",
+    "Only statement II is correct",
+    "Both statements I and II are correct",
+    "Neither statement I nor II is correct"
+   ],
+   "answer": 0,
+   "explanation": "II is false: presentations were translated and presented in both English and Sanskrit."
+  },
+  {
+   "id": 134,
+   "topic": "sanskritai",
+   "type": "Assertion-Reason",
+   "q": "Assertion (A): The conference aimed to extract a hidden 'algorithm' of semantic parsing from Sanskrit pandits.\nReason (R): The methodology had remained implicit and was preserved in the oral tradition.",
+   "options": [
+    "Both A and R are true, and R is the correct explanation of A",
+    "Both A and R are true, but R is NOT the correct explanation of A",
+    "A is true, but R is false",
+    "A is false, but R is true"
+   ],
+   "answer": 0,
+   "explanation": "Because the method was implicit, the pandits had to be consulted."
+  },
+  {
+   "id": 135,
+   "topic": "agriculture",
+   "type": "Fact",
+   "q": "In the context of plants, 'pest' signifies:",
+   "options": [
+    "Any insect, fungus, etc. that destroys plants",
+    "Only drought",
+    "Only weeds",
+    "Only birds"
+   ],
+   "answer": 0,
+   "explanation": "Pesticide literally means pest-killer."
+  },
+  {
+   "id": 136,
+   "topic": "agriculture",
+   "type": "Fact",
+   "q": "The traditional list of major calamities (ITIs) to crops contained:",
+   "options": [
+    "Eight",
+    "Three",
+    "Six",
+    "Four"
+   ],
+   "answer": 2,
+   "explanation": "Excessive rain/cyclone, drought, insects, rats, birds (parrots), foreign invasions."
+  },
+  {
+   "id": 137,
+   "topic": "agriculture",
+   "type": "Not / Odd one out",
+   "q": "Which is NOT among the six traditional calamities to crops?",
+   "options": [
+    "Soil erosion",
+    "Foreign invasions",
+    "Drought",
+    "Rats"
+   ],
+   "answer": 0,
+   "explanation": "The six: excessive rain/cyclone, drought, insects, rats, birds, foreign invasions."
+  },
+  {
+   "id": 138,
+   "topic": "agriculture",
+   "type": "Fact",
+   "q": "Which Purana prescribes treatments for promoting growth of flowers/fruits and overcoming infertility in plants?",
+   "options": [
+    "Agnipurana",
+    "Matsyapurana",
+    "Vishnupurana",
+    "Bhagavatapurana"
+   ],
+   "answer": 0,
+   "explanation": "Agnipurana (282, verses 13–14)."
+  },
+  {
+   "id": 139,
+   "topic": "agriculture",
+   "type": "Fact",
+   "q": "Vidanga, shown in the pesticide slide, is:",
+   "options": [
+    "A type of mulch",
+    "A paddy variety",
+    "A powerful anti-parasitic herb of Ayurveda",
+    "A cow breed"
+   ],
+   "answer": 2,
+   "explanation": "Plastered with ghee on plants."
+  },
+  {
+   "id": 140,
+   "topic": "agriculture",
+   "type": "Fact",
+   "q": "As a general remedy for plants, the text recommends sprinkling with:",
+   "options": [
+    "Ash and honey",
+    "Cow ghee and cold water",
+    "Fish oil only",
+    "Hot water and salt"
+   ],
+   "answer": 1,
+   "explanation": "Cow ghee and cold water."
+  },
+  {
+   "id": 141,
+   "topic": "agriculture",
+   "type": "Fact",
+   "q": "A worm-eaten plant is to be irrigated with:",
+   "options": [
+    "A solution of oil-cake in water",
+    "Cold milk only",
+    "Salt water",
+    "Plain well water"
+   ],
+   "answer": 0,
+   "explanation": "Also: Kandarka/krmi are removed from roots and the tree is sprinkled with cold water for seven days."
+  },
+  {
+   "id": 142,
+   "topic": "agriculture",
+   "type": "Fact",
+   "q": "Insects on leaves are destroyed by dusting with:",
+   "options": [
+    "Cow-dung and honey",
+    "Milk and oil-cake",
+    "Ghee and sesamum",
+    "Ashes and brick-dust"
+   ],
+   "answer": 3,
+   "explanation": "Dusting with ashes and brick-dust."
+  },
+  {
+   "id": 143,
+   "topic": "agriculture",
+   "type": "Fact",
+   "q": "The powder of offal of sheep/goats, barley, sesamum, and beef is kept buried for how many days before sprinkling on plants?",
+   "options": [
+    "Thirty days",
+    "Fifteen days",
+    "Three days",
+    "Seven days"
+   ],
+   "answer": 3,
+   "explanation": "Buried for seven days, then sprinkled."
+  },
+  {
+   "id": 144,
+   "topic": "agriculture",
+   "type": "Fact",
+   "q": "Which term in the Satapatha Brahmana (II.1.1.7) denotes dry cow-dung?",
+   "options": [
+    "Valaga",
+    "Kunapa",
+    "Karisa",
+    "Ropana"
+   ],
+   "answer": 2,
+   "explanation": "Karisa/sakrt/sakam = cow-dung terms from the Vedic period."
+  },
+  {
+   "id": 145,
+   "topic": "agriculture",
+   "type": "Fact",
+   "q": "Which Veda mentions cow-dung collected in the cow stall as useful manure for Sali rice?",
+   "options": [
+    "Rigveda",
+    "Yajurveda",
+    "Samaveda",
+    "Atharvaveda"
+   ],
+   "answer": 3,
+   "explanation": "Atharvaveda III.14.5."
+  },
+  {
+   "id": 146,
+   "topic": "agriculture",
+   "type": "Fact",
+   "q": "In the Ramayana (I.66.13–14), the expression 'ksetra-sodha' means:",
+   "options": [
+    "Sowing seeds",
+    "Improving the field (implies use of fertilisers)",
+    "Destroying pests",
+    "Transplanting seedlings"
+   ],
+   "answer": 1,
+   "explanation": "Implies the use of fertilisers."
+  },
+  {
+   "id": 147,
+   "topic": "agriculture",
+   "type": "Fact",
+   "q": "Krsi-Parasara (verse 111) says that without manure, paddy:",
+   "options": [
+    "Gives double yield",
+    "Grows up but yields no fruit",
+    "Dies immediately",
+    "Becomes pest-resistant"
+   ],
+   "answer": 1,
+   "explanation": "Manure is vital to produce grain."
+  },
+  {
+   "id": 148,
+   "topic": "agriculture",
+   "type": "Fact",
+   "q": "Which text refers to treatment of seeds and application of manure to soil (II.24.24–25)?",
+   "options": [
+    "Raghuvamsa",
+    "Anguttara Nikaya",
+    "Nayadhammakahao",
+    "Arthashastra"
+   ],
+   "answer": 3,
+   "explanation": "Arthashastra also notes land qualities can be contrived (krtrima)."
+  },
+  {
+   "id": 149,
+   "topic": "agriculture",
+   "type": "Fact",
+   "q": "The Kasyapiyakrsisukti, a Sanskrit work on agriculture, was edited with an introductory study by:",
+   "options": [
+    "Gyula Wojtilla",
+    "J. Bloch",
+    "S.R. Rao",
+    "Medhatithi"
+   ],
+   "answer": 0,
+   "explanation": "Gyula Wojtilla."
+  },
+  {
+   "id": 150,
+   "topic": "agriculture",
+   "type": "Fact",
+   "q": "According to Kasyapiyakrsisukti (v. 513), the cultivator should cultivate:",
+   "options": [
+    "Once every two years",
+    "Thrice a year",
+    "Twice a year, manuring before the second cultivation",
+    "Only in the monsoon"
+   ],
+   "answer": 2,
+   "explanation": "Manure with goat-dung, cow-dung or composites."
+  },
+  {
+   "id": 151,
+   "topic": "agriculture",
+   "type": "Fact",
+   "q": "Which two kinds of composting methods are illustrated in the manuring slides?",
+   "options": [
+    "Trench composting and basket composting",
+    "Vermicomposting and hydroponics",
+    "Drip and flood composting",
+    "Pit burning and ash spreading"
+   ],
+   "answer": 0,
+   "explanation": "Trench composting and basket composting."
+  },
+  {
+   "id": 152,
+   "topic": "agriculture",
+   "type": "Fact",
+   "q": "Alabu (gourd) creeper is sprinkled with:",
+   "options": [
+    "Cow's urine",
+    "Scum of rice kept overnight",
+    "Cold ghee",
+    "Beef washings"
+   ],
+   "answer": 1,
+   "explanation": "Kasyapiyakrsisukti, verse 156."
+  },
+  {
+   "id": 153,
+   "topic": "agriculture",
+   "type": "Fact",
+   "q": "Mulching is defined as:",
+   "options": [
+    "Deep ploughing of soil",
+    "Transplanting seedlings",
+    "Layering of agro material on the soil surface in the field",
+    "Spraying pesticides"
+   ],
+   "answer": 2,
+   "explanation": "Types: soil, straw and live mulching."
+  },
+  {
+   "id": 154,
+   "topic": "agriculture",
+   "type": "Not / Odd one out",
+   "q": "Which is NOT a type of mulching listed in the slide?",
+   "options": [
+    "Water mulching",
+    "Straw mulching",
+    "Soil mulching",
+    "Live mulching"
+   ],
+   "answer": 0,
+   "explanation": "Only soil, straw and live mulching."
+  },
+  {
+   "id": 155,
+   "topic": "agriculture",
+   "type": "Numeric",
+   "q": "About how much water can 1 kg of mulch absorb (dew, rain, irrigation), per the slide?",
+   "options": [
+    "40 litres",
+    "4 litres",
+    "10 litres",
+    "1 litre"
+   ],
+   "answer": 1,
+   "explanation": "1 kg of mulch absorbs ~4 litres of water."
+  },
+  {
+   "id": 156,
+   "topic": "agriculture",
+   "type": "Not / Odd one out",
+   "q": "Which is NOT a benefit of mulching?",
+   "options": [
+    "Preventing soil erosion",
+    "Increasing weed growth by letting more light reach the soil",
+    "Increasing micro-organisms in the top soil",
+    "Reducing water loss by evaporation"
+   ],
+   "answer": 1,
+   "explanation": "Mulching REDUCES weed growth by reducing the light reaching the soil."
+  },
+  {
+   "id": 157,
+   "topic": "agriculture",
+   "type": "Fact",
+   "q": "Mulches should always be applied to:",
+   "options": [
+    "Waterlogged soil only",
+    "Frozen soil",
+    "Warm, wet soil",
+    "Dry soil"
+   ],
+   "answer": 2,
+   "explanation": "Mulch on dry soil keeps the soil dry."
+  },
+  {
+   "id": 158,
+   "topic": "agriculture",
+   "type": "Numeric",
+   "q": "To allow germination of planted seeds through the mulch, the layer should be:",
+   "options": [
+    "Exactly 30 cm",
+    "More than 1 m",
+    "More than 10 cm",
+    "Less than 10 cm"
+   ],
+   "answer": 3,
+   "explanation": "10 cm or more is used to clear persistent weeds."
+  },
+  {
+   "id": 159,
+   "topic": "agriculture",
+   "type": "Fact",
+   "q": "Mulch that is applied too thick:",
+   "options": [
+    "Has no effect",
+    "Prevents air flow and encourages pests",
+    "Improves aeration",
+    "Prevents all weeds permanently"
+   ],
+   "answer": 1,
+   "explanation": "Care with thickness is needed."
+  },
+  {
+   "id": 160,
+   "topic": "agriculture",
+   "type": "Fact",
+   "q": "The terms 'Ropana' and 'Ropeti' in early Pali literature refer to:",
+   "options": [
+    "Harvesting",
+    "Transplantation",
+    "Mulching",
+    "Ploughing"
+   ],
+   "answer": 1,
+   "explanation": "They signify transplantation."
+  },
+  {
+   "id": 161,
+   "topic": "agriculture",
+   "type": "Fact",
+   "q": "Which poet refers to uprooting and transplanting of Sali seedlings (Raghuvamsa IV.37)?",
+   "options": [
+    "Bhasa",
+    "Bana",
+    "Kalidasa",
+    "Panini"
+   ],
+   "answer": 2,
+   "explanation": "Kalidasa's Raghuvamsa."
+  },
+  {
+   "id": 162,
+   "topic": "agriculture",
+   "type": "Fact",
+   "q": "According to Krsi-Parasara, seedlings should be transplanted one cubit apart in:",
+   "options": [
+    "Bhadra",
+    "Aswini",
+    "Sravana",
+    "Phalguna"
+   ],
+   "answer": 2,
+   "explanation": "One cubit in Sravana, half a cubit in Bhadra, four fingers in Aswini."
+  },
+  {
+   "id": 163,
+   "topic": "agriculture",
+   "type": "Fact",
+   "q": "According to Krsi-Parasara, seedlings are transplanted half a cubit apart in:",
+   "options": [
+    "Bhadra",
+    "Aswini",
+    "Sravana",
+    "Magha"
+   ],
+   "answer": 0,
+   "explanation": "Sravana: 1 cubit. Bhadra: ½ cubit. Aswini: four fingers."
+  },
+  {
+   "id": 164,
+   "topic": "agriculture",
+   "type": "Fact",
+   "q": "The transplantation slide notes that sowing is free from defects, but transplantation:",
+   "options": [
+    "Needs no weeding",
+    "Is prohibited",
+    "Always gives double yield",
+    "Is attended with maladies"
+   ],
+   "answer": 3,
+   "explanation": "Seedlings should not be gathered from fully grown paddy plants."
+  },
+  {
+   "id": 165,
+   "topic": "agriculture",
+   "type": "Fact",
+   "q": "Trees are transplanted after plastering their roots with a mixture including:",
+   "options": [
+    "Only sand and salt",
+    "Only ash",
+    "Ghee, usira, sesamum, honey, vidanga, milk and cow-dung",
+    "Beef and brick-dust"
+   ],
+   "answer": 2,
+   "explanation": "The term used is 'sankrapanaviropana'."
+  },
+  {
+   "id": 166,
+   "topic": "agriculture",
+   "type": "Fact",
+   "q": "S.R. Rao identified the figure of a seed-drill on a Harappan seal from:",
+   "options": [
+    "Lothal",
+    "Mohenjo-daro",
+    "Harappa",
+    "Kalibangan"
+   ],
+   "answer": 0,
+   "explanation": "Lothal; Harappans practised line-sowing."
+  },
+  {
+   "id": 167,
+   "topic": "agriculture",
+   "type": "Fact",
+   "q": "The furrow pattern at Kalibangan suggests:",
+   "options": [
+    "Only paddy monoculture",
+    "Drip irrigation",
+    "Mixed/inter-cropping with furrows at right angles",
+    "Terrace farming"
+   ],
+   "answer": 2,
+   "explanation": "Horizontal furrows for one crop, vertical for another."
+  },
+  {
+   "id": 168,
+   "topic": "agriculture",
+   "type": "Numeric",
+   "q": "At Kalibangan, the north–south furrows were on average ____ apart, while east–west furrows were only 30 cm apart.",
+   "options": [
+    "30 m",
+    "10 m",
+    "19 cm",
+    "1.9 m"
+   ],
+   "answer": 3,
+   "explanation": "N–S 1.9 m; E–W 30 cm."
+  },
+  {
+   "id": 169,
+   "topic": "agriculture",
+   "type": "Fact",
+   "q": "According to J. Bloch, the 'sira' mentioned in RV X.101.3–4 implies:",
+   "options": [
+    "A harvesting sickle",
+    "A plough used for sowing seeds (seed-drill plough)",
+    "An irrigation canal",
+    "A grain store"
+   ],
+   "answer": 1,
+   "explanation": "Seed-drill plough used for sowing."
+  },
+  {
+   "id": 170,
+   "topic": "agriculture",
+   "type": "Fact",
+   "q": "Pāṇini's term 'Bijakaroti' (V.4.58) refers to:",
+   "options": [
+    "A device for sowing seeds in the line of tilling (cone attached to the plough pole)",
+    "A water-lifting wheel",
+    "A harvesting tool",
+    "A grain storage pit"
+   ],
+   "answer": 0,
+   "explanation": "Explained by the Karika."
+  },
+  {
+   "id": 171,
+   "topic": "agriculture",
+   "type": "Fact",
+   "q": "In the Jain text Nayadhammakahao, five paddy grains were:",
+   "options": [
+    "Sown on a well-prepared bed, with seedlings transplanted twice or thrice",
+    "Sown only broadcast",
+    "Burnt in fire",
+    "Stored for 7 years"
+   ],
+   "answer": 0,
+   "explanation": "Nayadhammakahao (vii.68 p.85)."
+  },
+  {
+   "id": 172,
+   "topic": "agriculture",
+   "type": "Fact",
+   "q": "The paddy field should be freed of weeds between:",
+   "options": [
+    "Magha and Phalguna",
+    "Sravana and Bhadra",
+    "Phalguna and Chaitra",
+    "Aswini and Kartika"
+   ],
+   "answer": 1,
+   "explanation": "Bhadra water should be drained and kept up to the roots only."
+  },
+  {
+   "id": 173,
+   "topic": "agriculture",
+   "type": "Match",
+   "q": "Which pair is correctly matched?",
+   "options": [
+    "S.R. Rao – Pali term Ropana",
+    "Medhatithi – seeds sown with the help of plough (on Manusmriti II.112)",
+    "J. Bloch – Krsi-Parasara",
+    "Kalidasa – seed-drill on Harappan seal"
+   ],
+   "answer": 1,
+   "explanation": "Medhatithi commented on Manusmriti and refers to sowing with the plough."
+  },
+  {
+   "id": 174,
+   "topic": "agriculture",
+   "type": "Statements",
+   "q": "I. Harappans practised line-sowing using seed-drills.\nII. Mulch applied to dry soil keeps the soil moist.",
+   "options": [
+    "Only statement I is correct",
+    "Only statement II is correct",
+    "Both statements I and II are correct",
+    "Neither statement I nor II is correct"
+   ],
+   "answer": 0,
+   "explanation": "II is false: mulch on dry soil keeps it DRY; apply to warm, wet soil."
+  },
+  {
+   "id": 175,
+   "topic": "agriculture",
+   "type": "Assertion-Reason",
+   "q": "Assertion (A): Mulching reduces weed growth.\nReason (R): Mulch reduces the amount of light reaching the soil.",
+   "options": [
+    "Both A and R are true, and R is the correct explanation of A",
+    "Both A and R are true, but R is NOT the correct explanation of A",
+    "A is true, but R is false",
+    "A is false, but R is true"
+   ],
+   "answer": 0,
+   "explanation": "Less light means fewer weeds."
+  },
+  {
+   "id": 176,
+   "topic": "cattle",
+   "type": "Fact",
+   "q": "How many pure cattle breeds does India have, per the slide?",
+   "options": [
+    "37",
+    "47",
+    "17",
+    "27"
+   ],
+   "answer": 0,
+   "explanation": "India has 37 pure cattle breeds."
+  },
+  {
+   "id": 177,
+   "topic": "cattle",
+   "type": "Not / Odd one out",
+   "q": "Which of these is NOT among the five breeds known for milking prowess?",
+   "options": [
+    "Sahiwal",
+    "Gir",
+    "Kankrej",
+    "Red Sindhi"
+   ],
+   "answer": 2,
+   "explanation": "The five milch breeds are Sahiwal, Gir, Red Sindhi, Tharparkar and Rathi."
+  },
+  {
+   "id": 178,
+   "topic": "cattle",
+   "type": "Fact",
+   "q": "Which breeds are dual-purpose (both milch and draught)?",
+   "options": [
+    "Sahiwal, Gir and Rathi",
+    "Kankrej, Ongole and Hariana",
+    "Gir, Tharparkar and Red Sindhi",
+    "Jersey, Holstein and Gir"
+   ],
+   "answer": 1,
+   "explanation": "They are also good plough animals."
+  },
+  {
+   "id": 179,
+   "topic": "cattle",
+   "type": "Not / Odd one out",
+   "q": "Which is NOT given as a reason for rearing cattle in ancient India?",
+   "options": [
+    "Cultivating cash crops for export",
+    "Agriculture (tilling, irrigation, carting)",
+    "Milk products",
+    "Transport"
+   ],
+   "answer": 0,
+   "explanation": "Milk, agriculture, transport and better physical/mental health."
+  },
+  {
+   "id": 180,
+   "topic": "cattle",
+   "type": "Fact",
+   "q": "Why can indigenous cattle tolerate heat better than exotic cattle?",
+   "options": [
+    "They have softer hooves",
+    "They have fewer sweat glands",
+    "They have longer hair",
+    "They have bigger and more numerous sweat glands"
+   ],
+   "answer": 3,
+   "explanation": "Plus sticky secretion and short hair to avoid insects."
+  },
+  {
+   "id": 181,
+   "topic": "cattle",
+   "type": "Fact",
+   "q": "Which feature of indigenous cattle helps in ploughing and running on rocky ground?",
+   "options": [
+    "Wide gap between hooves",
+    "Small, closely set, hard hooves",
+    "Large, soft hooves",
+    "Long hair"
+   ],
+   "answer": 1,
+   "explanation": "Exotic breeds have soft, widely-spaced hooves leading to hoof diseases."
+  },
+  {
+   "id": 182,
+   "topic": "cattle",
+   "type": "Fact",
+   "q": "Exotic cattle breeds are compared with indigenous ones as being:",
+   "options": [
+    "Better at ploughing hard soil",
+    "More heat tolerant",
+    "More prone to disease and less suited to hard work",
+    "More disease resistant"
+   ],
+   "answer": 2,
+   "explanation": "Crossbred bulls are lazy."
+  },
+  {
+   "id": 183,
+   "topic": "cattle",
+   "type": "Fact",
+   "q": "Why is mastitis chance lower in indigenous cattle?",
+   "options": [
+    "They give more milk",
+    "Teat and pores remain tightly closed",
+    "The uterus opening stays open",
+    "Teats are big"
+   ],
+   "answer": 1,
+   "explanation": "Exotic: big teats/pores, so milking is easy but mastitis chances are higher."
+  },
+  {
+   "id": 184,
+   "topic": "cattle",
+   "type": "Fact",
+   "q": "In indigenous breeds, the uterus opening remains:",
+   "options": [
+    "Closed, which minimises infection",
+    "Fused with the teat",
+    "Open, which increases infection",
+    "Large"
+   ],
+   "answer": 0,
+   "explanation": "In exotic breeds it stays open."
+  },
+  {
+   "id": 185,
+   "topic": "cattle",
+   "type": "Fact",
+   "q": "Milk of indigenous breeds contains more:",
+   "options": [
+    "Only fat",
+    "Vitamin A and iodine, with less bad cholesterol",
+    "Bad cholesterol and less vitamin A",
+    "Only protein"
+   ],
+   "answer": 1,
+   "explanation": "Exotic milk has more bad cholesterol and less vitamin A."
+  },
+  {
+   "id": 186,
+   "topic": "cattle",
+   "type": "Fact",
+   "q": "Exotic cattle were developed under:",
+   "options": [
+    "Cold temperate conditions",
+    "Hot desert conditions",
+    "Mountain tundra only",
+    "Tropical monsoon conditions"
+   ],
+   "answer": 0,
+   "explanation": "Hence small, fewer sweat glands."
+  },
+  {
+   "id": 187,
+   "topic": "cattle",
+   "type": "Fact",
+   "q": "The 'Bos taurus' slide text says the milk of exotic breeds suffers because of:",
+   "options": [
+    "Hard hooves",
+    "Excess sweat glands",
+    "Damage to the Y chromosome during evolution",
+    "Short hair"
+   ],
+   "answer": 2,
+   "explanation": "As written in the slide."
+  },
+  {
+   "id": 188,
+   "topic": "cattle",
+   "type": "Statements",
+   "q": "I. Indigenous breeds have a short hair coat that avoids insect pests.\nII. Exotic breeds are developed for hot, dry tropical climates.",
+   "options": [
+    "Only statement I is correct",
+    "Only statement II is correct",
+    "Both statements I and II are correct",
+    "Neither statement I nor II is correct"
+   ],
+   "answer": 0,
+   "explanation": "II is false: exotic breeds developed in cold temperate conditions."
+  },
+  {
+   "id": 189,
+   "topic": "cattle",
+   "type": "Assertion-Reason",
+   "q": "Assertion (A): Indigenous cattle are good plough animals on rocky ground.\nReason (R): They have small, closely situated, hard hooves with less hoof decay.",
+   "options": [
+    "Both A and R are true, and R is the correct explanation of A",
+    "Both A and R are true, but R is NOT the correct explanation of A",
+    "A is true, but R is false",
+    "A is false, but R is true"
+   ],
+   "answer": 0,
+   "explanation": "That hoof structure explains their ploughing suitability."
+  },
+  {
+   "id": 190,
+   "topic": "revision",
+   "type": "Match",
+   "q": "Which pair is INCORRECTLY matched?",
+   "options": [
+    "Jyeṣṭhadeva – Brahmasphutasiddhanta",
+    "Pingala – Chandaḥśāstra",
+    "Nilakantha – Tantrasangraha",
+    "Aryabhata – Aryabhatiya"
+   ],
+   "answer": 0,
+   "explanation": "Brahmasphutasiddhanta is Brahmagupta's."
+  },
+  {
+   "id": 191,
+   "topic": "revision",
+   "type": "Chronology",
+   "q": "Which is the EARLIEST of these?",
+   "options": [
+    "Brahmasphutasiddhanta (628 AD)",
+    "Bakhshali Manuscript (3rd–4th c. AD)",
+    "Pāṇini's Aṣṭādhyāyī (4th c. BCE)",
+    "Aryabhatiya (499 AD)"
+   ],
+   "answer": 2,
+   "explanation": "Pāṇini, 4th century BCE."
+  },
+  {
+   "id": 192,
+   "topic": "revision",
+   "type": "Chronology",
+   "q": "Arrange in chronological order (earliest first): Aryabhatiya, Chaturbhuj Gwalior inscription, Brahmasphutasiddhanta, Bakhshali oldest leaves",
+   "options": [
+    "Gwalior → Bakhshali → Aryabhatiya → Brahmasphutasiddhanta",
+    "Brahmasphutasiddhanta → Aryabhatiya → Bakhshali → Gwalior",
+    "Bakhshali → Aryabhatiya → Brahmasphutasiddhanta → Gwalior inscription",
+    "Aryabhatiya → Bakhshali → Gwalior → Brahmasphutasiddhanta"
+   ],
+   "answer": 2,
+   "explanation": "3rd–4th c. AD → 499 AD → 628 AD → c. 875 AD."
+  },
+  {
+   "id": 193,
+   "topic": "revision",
+   "type": "Numeric",
+   "q": "Aryabhatiya (499 AD) gives the approximation of π as:",
+   "options": [
+    "22/7 only",
+    "3.14159265359",
+    "3.1416",
+    "3.15"
+   ],
+   "answer": 2,
+   "explanation": "Trap: 3.14159265359 (11 decimals) is Madhava's value."
+  },
+  {
+   "id": 194,
+   "topic": "revision",
+   "type": "Fact",
+   "q": "Which text is credited with the oldest manuscript record of the dot zero?",
+   "options": [
+    "Bakhshali Manuscript",
+    "Yuktibhāṣā",
+    "Brahmasphutasiddhanta",
+    "Aṣṭādhyāyī"
+   ],
+   "answer": 0,
+   "explanation": "Bakhshali (3rd–4th c. AD)."
+  },
+  {
+   "id": 195,
+   "topic": "revision",
+   "type": "Fact",
+   "q": "The first text to give rules for computing WITH zero is:",
+   "options": [
+    "Bakhshali Manuscript",
+    "Tantrasangraha",
+    "Brahmasphutasiddhanta",
+    "Chandaḥśāstra"
+   ],
+   "answer": 2,
+   "explanation": "628 AD."
+  },
+  {
+   "id": 196,
+   "topic": "revision",
+   "type": "Match",
+   "q": "Which Indian scholar/text is correctly linked with its European counterpart?",
+   "options": [
+    "Brahmagupta – Taylor series",
+    "Mādhava's π/4 series – Gregory–Leibniz series",
+    "Pingala – Backus-Naur Form",
+    "Virāṅka – Pascal's triangle"
+   ],
+   "answer": 1,
+   "explanation": "Virāṅka ↔ Fibonacci; Pingala ↔ binary; Brahmagupta ↔ Pell."
+  },
+  {
+   "id": 197,
+   "topic": "revision",
+   "type": "Fact",
+   "q": "The language of Yuktibhāṣā (Malayalam) differs from the language of Bakhshali, which is:",
+   "options": [
+    "Tamil",
+    "Gatha Sanskrit",
+    "Pali",
+    "Sharada"
+   ],
+   "answer": 1,
+   "explanation": "Trap: 'Sharada' is the script, not the language."
+  },
+  {
+   "id": 198,
+   "topic": "revision",
+   "type": "Fact",
+   "q": "Which is the correct pairing of text and script/language?",
+   "options": [
+    "Bakhshali – Sharada script",
+    "Chandaḥśāstra – Malayalam",
+    "Aṣṭādhyāyī – Gatha Sanskrit",
+    "Yuktibhāṣā – Sharada script"
+   ],
+   "answer": 0,
+   "explanation": "Bakhshali is in Sharada script."
+  },
+  {
+   "id": 199,
+   "topic": "revision",
+   "type": "Fact",
+   "q": "Which scholar linked Sanskrit with Knowledge Representation in AI (1985)?",
+   "options": [
+    "Peter Naur",
+    "Gyula Wojtilla",
+    "Rick Briggs",
+    "C.K. Raju"
+   ],
+   "answer": 2,
+   "explanation": "Rick Briggs; his article inspired the Bangalore conference."
+  },
+  {
+   "id": 200,
+   "topic": "revision",
+   "type": "Fact",
+   "q": "Project SHIVOHAM is the source of the video-based notes on:",
+   "options": [
+    "Cattle and manuring",
+    "AI Magazine reports",
+    "Radiocarbon dating",
+    "Algorithms and computation, the Kerala School and Brahmagupta"
+   ],
+   "answer": 3,
+   "explanation": "Notes on Pingala/Panini, Kerala School and Brahmagupta."
+  },
+  {
+   "id": 201,
+   "topic": "revision",
+   "type": "Fact",
+   "q": "The Chaturbhuj Temple inscription at Gwalior is:",
+   "options": [
+    "An Arabic translation",
+    "A manuscript on birch bark",
+    "The oldest physical STONE inscription showing zero in a numerical sequence",
+    "A radiocarbon-dated palm leaf"
+   ],
+   "answer": 2,
+   "explanation": "c. 875 AD."
+  },
+  {
+   "id": 202,
+   "topic": "revision",
+   "type": "Statements",
+   "q": "I. Katapayadi, Aryabhata's numeration and Pingala's binary are all encoding/number systems.\nII. Mādhava's series and Brahmagupta's formula both belong to the Kerala School.",
+   "options": [
+    "Only statement I is correct",
+    "Only statement II is correct",
+    "Both statements I and II are correct",
+    "Neither statement I nor II is correct"
+   ],
+   "answer": 0,
+   "explanation": "II is false: Brahmagupta was at Ujjain, not in the Kerala School."
+  },
+  {
+   "id": 203,
+   "topic": "revision",
+   "type": "Assertion-Reason",
+   "q": "Assertion (A): The Oxford radiocarbon study changed the accepted history of zero in India.\nReason (R): The Bakhshali leaves were dated to the 3rd–4th century AD, much earlier than the Gwalior inscription.",
+   "options": [
+    "Both A and R are true, and R is the correct explanation of A",
+    "Both A and R are true, but R is NOT the correct explanation of A",
+    "A is true, but R is false",
+    "A is false, but R is true"
+   ],
+   "answer": 0,
+   "explanation": "It pushed back documented use by nearly 500 years."
+  }
+ ]
+}
